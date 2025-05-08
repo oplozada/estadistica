@@ -35,8 +35,8 @@ hipótesis.
 
 **4. Archivos incluidos**
 
-1.  kendall_w.py: módulo principal con las funciones ajustar_fila_T y
-    Kendall.
+1.  kendall_w.py: módulo principal con las funciones ajustar_fila_coefT() y
+    Kendall().
 
 2.  main.py: script de ejemplo para uso práctico.
 

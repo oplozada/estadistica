@@ -4,6 +4,8 @@
 from kendall_w import ajustar_fila_coefT, Kendall
 
 # Paso 1: Datos directamente en el script
+# columnas= variables evaluadas
+# filas   = expertos 
 data = [
     [7,9,8,8,6,9,7,8,5],
     [6,9,8,7,5,9,8,7,4],

@@ -5,7 +5,7 @@ import pandas as pd
 from kendall_w import ajustar_fila_coefT, Kendall
 
 # Paso 1: Cargar datos desde archivo CSV
-# Cada fila representa un juez, cada columna un objeto evaluado
+# Cada fila representa un juez, cada columna una variable evaluada
 archivo_csv = "datos_jueces_2.csv"
 #archivo_csv = "kendall.csv"
 df = pd.read_csv(archivo_csv, header=None,sep=',')
